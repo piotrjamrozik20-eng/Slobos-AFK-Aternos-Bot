@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "password": "sigmaboy",
+    "type": "online"
   },
   "server": {
     "ip": "Ripmc.aternos.me",
